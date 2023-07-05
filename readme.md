@@ -1,3 +1,5 @@
+# 原 `repo` `readme.md`
+
 ## 关于模板库
 
 ![](https://github.com/F0RE1GNERS/template/workflows/build/badge.svg)
@@ -25,3 +27,7 @@ F0RE1GNERS (IO%) 将会参加 2019 年的若干场区域赛，有幸与大家再
 
 + 使用 pandoc 和 LaTeX 生成
 + 代码高亮使用 minted
+
+# 修改内容
++ 去除了宏定义
++ 对部分计算几何等大型模板内容添加注释用法
